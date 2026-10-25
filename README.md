@@ -38,7 +38,7 @@ Bazı mesleklerde kadın ve erkeklerin temsil oranları arasında belirgin farkl
 
 # Klasör Yapısı (planlanan)
 
-- `data/.gitkeep` : Ham ve temizlenmiş veri dosyaları
+- `data/` : Ham ve temizlenmiş veri dosyaları
 - `notebooks/` : Google Colab / Jupyter analiz dosyaları
 - `docs/` : Rapor ve literatür notları
 
