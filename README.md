@@ -1,2 +1,3 @@
 # Meslekse-imicinsiyet
-Meslek seçimlerinde cinsiyet etkilerinde dağımlıları 
+Konu:Meslek seçimlerinde cinsiyet etkilerinde dağımlıları 
+Seçme amacım:
