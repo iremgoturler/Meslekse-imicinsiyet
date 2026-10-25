@@ -1,3 +1,3 @@
 # Meslekse-imicinsiyet
 Konu:Meslek seçimlerinde cinsiyet etkilerinde dağımlıları 
-Seçme amacım:
+Seçme amacım: Bazı meslek gruplarında cinsiyet dağılımı farklılarını fark ettim.
